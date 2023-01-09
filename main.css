@@ -1,0 +1,85 @@
+body {
+	background-color:#E3E8EA;
+	font-family:TW Cen MT;
+	margin:40px;
+	
+}
+
+h1 {
+	background-color:#BCCAD0;
+	font-family:Bahnschrift Semicondensed;
+	padding-block:10px;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+h2 {
+	color:#FFFFFF;
+	background-color:#495054;
+	font-family:Bahnschrift;
+	padding-block:6px;
+	text-indent:20px;
+}
+
+div.intro {
+	padding-block:10px;
+	text-align:justify;
+}
+
+div.contact {
+	margin-left:20px;
+	margin-right:20px;
+	padding-block:2px;
+}
+
+table {
+	border-collapse:collapse;
+	text-align:left;
+	width:100%;
+}
+
+#header {
+	color:#03254C;
+	font-family:Bahnschrift;
+	font-size:60%;
+	text-transform:uppercase;
+}
+
+div.content {
+	padding-block:2px;
+}
+
+h3 {
+	color:#03254C;
+	font-family:Bahnschrift Condensed;
+	line-height:10px;
+	margin:20px;
+}
+
+ul {
+	margin-left:20px;
+	margin-right:20px;
+}
+
+p.schoolexp {
+	line-height:40%;
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:20px;
+}
+
+p.skills {
+	margin-left:40px;
+	margin-right:40px;
+	text-align:justify;
+}
+
+footer {
+	color:#03254C;
+	font-family:Bahnschrift Condensed;
+	font-size:80%;
+	letter-spacing:1px;
+	margin-top:40px;
+	text-align:right;
+	word-spacing:2px;
+}
